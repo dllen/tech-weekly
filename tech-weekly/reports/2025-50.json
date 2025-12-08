@@ -1,0 +1,719 @@
+{
+  "slug": "2025-50",
+  "generated_at": "2025-12-08T23:26:55.261112",
+  "stats": {
+    "https://github.com/ruanyf/weekly/issues": {
+      "ok": true,
+      "count": 0,
+      "error": "",
+      "duration": 2.936894178390503,
+      "_start": 1765207502.414955
+    },
+    "https://github.com/trending": {
+      "ok": true,
+      "count": 9,
+      "error": "",
+      "duration": 3.0957119464874268,
+      "_start": 1765207506.152199
+    },
+    "https://hn.aimaker.dev/": {
+      "ok": true,
+      "count": 15,
+      "error": "",
+      "duration": 9.541494131088257,
+      "_start": 1765207510.050009
+    },
+    "https://www.daemonology.net/hn-weekly/": {
+      "ok": true,
+      "count": 19,
+      "error": "",
+      "duration": 4.506829738616943,
+      "_start": 1765207520.395565
+    },
+    "https://koala-oss.app/news/": {
+      "ok": true,
+      "count": 6,
+      "error": "",
+      "duration": 5.936686038970947,
+      "_start": 1765207525.702919
+    },
+    "https://topsub.cc/": {
+      "ok": true,
+      "count": 0,
+      "error": "",
+      "duration": 2.0993242263793945,
+      "_start": 1765207532.4401438
+    },
+    "https://git.news/": {
+      "ok": true,
+      "count": 0,
+      "error": "",
+      "duration": 2.1371889114379883,
+      "_start": 1765207535.343767
+    },
+    "https://github.com/howie6879/weekly": {
+      "ok": true,
+      "count": 0,
+      "error": "",
+      "duration": 2.836439847946167,
+      "_start": 1765207538.280998
+    },
+    "https://github.com/tw93/weekly?tab=readme-ov-file": {
+      "ok": true,
+      "count": 0,
+      "error": "",
+      "duration": 2.5519731044769287,
+      "_start": 1765207541.92232
+    },
+    "https://github.com/ljinkai/weekly": {
+      "ok": true,
+      "count": 0,
+      "error": "",
+      "duration": 2.7223758697509766,
+      "_start": 1765207545.278871
+    },
+    "https://hn.buzzing.cc/": {
+      "ok": true,
+      "count": 0,
+      "error": "",
+      "duration": 2.5253078937530518,
+      "_start": 1765207548.803256
+    },
+    "https://morerss.com/zh": {
+      "ok": true,
+      "count": 1,
+      "error": "",
+      "duration": 7.266193866729736,
+      "_start": 1765207552.131252
+    },
+    "https://x-daily.pages.dev/": {
+      "ok": true,
+      "count": 0,
+      "error": "",
+      "duration": 1.980808973312378,
+      "_start": 1765207560.2003598
+    },
+    "https://decohack.com/": {
+      "ok": true,
+      "count": 7,
+      "error": "",
+      "duration": 4.1232781410217285,
+      "_start": 1765207562.982015
+    },
+    "https://github.com/headllines/hackernews-monthly": {
+      "ok": true,
+      "count": 0,
+      "error": "",
+      "duration": 2.9359700679779053,
+      "_start": 1765207567.908875
+    },
+    "https://weekly.howie6879.com/": {
+      "ok": true,
+      "count": 0,
+      "error": "",
+      "duration": 2.7549240589141846,
+      "_start": 1765207571.6448839
+    },
+    "https://www.zhihu.com/people/githubdaily": {
+      "ok": false,
+      "count": 0,
+      "error": "error: 403 Client Error: Forbidden for url: https://www.zhihu.com/people/githubdaily",
+      "duration": 0.09255814552307129,
+      "_start": 1765207575.203136
+    },
+    "https://github.com/GitHubDaily/GitHubDaily": {
+      "ok": true,
+      "count": 0,
+      "error": "",
+      "duration": 3.938861131668091,
+      "_start": 1765207575.295767
+    },
+    "https://x.com/GitHub_Daily": {
+      "ok": true,
+      "count": 0,
+      "error": "",
+      "duration": 1.956939697265625,
+      "_start": 1765207580.0350232
+    },
+    "https://hellogithub.com/": {
+      "ok": true,
+      "count": 0,
+      "error": "",
+      "duration": 0.5519208908081055,
+      "_start": 1765207582.794655
+    },
+    "https://github.com/OpenGithubs/github-weekly-rank": {
+      "ok": true,
+      "count": 0,
+      "error": "",
+      "duration": 2.5450167655944824,
+      "_start": 1765207584.1493702
+    },
+    "https://open.itc.cn/": {
+      "ok": true,
+      "count": 3,
+      "error": "",
+      "duration": 0.5059278011322021,
+      "_start": 1765207587.498805
+    },
+    "https://www.github-zh.com/top": {
+      "ok": true,
+      "count": 0,
+      "error": "",
+      "duration": 2.3432860374450684,
+      "_start": 1765207588.808994
+    }
+  },
+  "items": [
+    {
+      "title": "microsoft / VibeVoice",
+      "url": "https://github.com/microsoft/VibeVoice",
+      "source": "github_trending",
+      "summary": "Open-Source Frontier Voice AI",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "sinelaw / fresh",
+      "url": "https://github.com/sinelaw/fresh",
+      "source": "github_trending",
+      "summary": "Text editor for your terminal: easy, powerful and fast",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "winapps-org / winapps",
+      "url": "https://github.com/winapps-org/winapps",
+      "source": "github_trending",
+      "summary": "Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they...",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "patchy631 / ai-engineering-hub",
+      "url": "https://github.com/patchy631/ai-engineering-hub",
+      "source": "github_trending",
+      "summary": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
+      "author": "",
+      "published_at": "",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "slidevjs / slidev",
+      "url": "https://github.com/slidevjs/slidev",
+      "source": "github_trending",
+      "summary": "Presentation Slides for Developers",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "cloudflare / vibesdk",
+      "url": "https://github.com/cloudflare/vibesdk",
+      "source": "github_trending",
+      "summary": "An open-source vibe coding platform that helps you build your own vibe-coding platform, built ent...",
+      "author": "",
+      "published_at": "",
+      "tags": [
+        "Cloudflare"
+      ]
+    },
+    {
+      "title": "anthropics / claude-quickstarts",
+      "url": "https://github.com/anthropics/claude-quickstarts",
+      "source": "github_trending",
+      "summary": "A collection of projects designed to help developers quickly get started with building deployable...",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "microsoft / Foundry-Local",
+      "url": "https://github.com/microsoft/Foundry-Local",
+      "source": "github_trending",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "microsoft / ML-For-Beginners",
+      "url": "https://github.com/microsoft/ML-For-Beginners",
+      "source": "github_trending",
+      "summary": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
+      "author": "",
+      "published_at": "",
+      "tags": [
+        "ML"
+      ]
+    },
+    {
+      "title": "GitHub Actions 有一个包管理器，但它可能是最糟糕的。",
+      "url": "https://nesbitt.io/2025/12/06/github-actions-package-manager.html",
+      "source": "https://hn.aimaker.dev",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "IBM将收购Confluent",
+      "url": "https://www.confluent.io/blog/ibm-to-acquire-confluent/",
+      "source": "https://hn.aimaker.dev",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "我如何屏蔽所有在线广告",
+      "url": "https://troubled.engineer/posts/no-ads/",
+      "source": "https://hn.aimaker.dev",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "为什么战斗机禁止使用90%的C++特性 [视频]",
+      "url": "https://www.youtube.com/watch?v=Gv4sDL9Ljww",
+      "source": "https://hn.aimaker.dev",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "壳牌的12天活动",
+      "url": "https://12days.cmdchallenge.com",
+      "source": "https://hn.aimaker.dev",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "通过市场手段实现社会主义目标：一段历史",
+      "url": "https://lucasvance.github.io/2100/history/",
+      "source": "https://hn.aimaker.dev",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "对于开发者和产品负责人来说，估算是困难的。",
+      "url": "https://thorsell.io/2025/12/07/estimates.html",
+      "source": "https://hn.aimaker.dev",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "小程序已正式退出，但浏览器中的Java更强大。",
+      "url": "https://frequal.com/java/AppletsGoneButJavaInTheBrowserBetterThanEver.html",
+      "source": "https://hn.aimaker.dev",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "F-35战斗机的C++编码标准 [pdf]",
+      "url": "https://www.stroustrup.com/JSF-AV-rules.pdf",
+      "source": "https://hn.aimaker.dev",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "Flow：一种用于C++的基于演员模型的语言，FoundationDB使用了它。",
+      "url": "https://github.com/apple/foundationdb/tree/main/flow",
+      "source": "https://hn.aimaker.dev",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "Anthropic收购Bun",
+      "url": "https://bun.com/blog/bun-joins-anthropic",
+      "source": "https://hn.aimaker.dev",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "接受美国汽车标准将危及欧洲人的生命。",
+      "url": "https://etsc.eu/accepting-us-car-standards-would-risk-european-lives-warn-cities-and-civil-society/",
+      "source": "https://hn.aimaker.dev",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "Cloudflare出现故障。",
+      "url": "https://www.cloudflare.com/",
+      "source": "https://hn.aimaker.dev",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "Ghostty 现在是非营利组织。",
+      "url": "https://mitchellh.com/writing/ghostty-non-profit",
+      "source": "https://hn.aimaker.dev",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "IBM首席执行官表示，投资于人工智能数据中心“没有回报的可能”。",
+      "url": "https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12",
+      "source": "https://hn.aimaker.dev",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "Leak confirms OpenAI is preparing ads on ChatGPT for public roll out",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-preparing-ads-on-chatgpt-for-public-roll-out/",
+      "source": "hn_weekly",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": [
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "(comments)",
+      "url": "https://news.ycombinator.com/item?id=46086771",
+      "source": "hn_weekly",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "All it takes is for one to work out",
+      "url": "https://alearningaday.blog/2025/11/28/all-it-takes-is-for-one-to-work-out-2/",
+      "source": "hn_weekly",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "(comments)",
+      "url": "https://news.ycombinator.com/item?id=46090433",
+      "source": "hn_weekly",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "Advent of Code 2025",
+      "url": "https://adventofcode.com/2025/about",
+      "source": "hn_weekly",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "(comments)",
+      "url": "https://news.ycombinator.com/item?id=46096337",
+      "source": "hn_weekly",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "Search tool that only returns content created before ChatGPT's public release",
+      "url": "https://tegabrain.com/Slop-Evader",
+      "source": "hn_weekly",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "(comments)",
+      "url": "https://news.ycombinator.com/item?id=46103376",
+      "source": "hn_weekly",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "India orders smartphone makers to preload state-owned cyber safety app",
+      "url": "https://www.reuters.com/sustainability/boards-policy-regulation/india-orders-mobile-phones-preloaded-with-government-app-ensure-cyber-safety-2025-12-01/",
+      "source": "hn_weekly",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "(comments)",
+      "url": "https://news.ycombinator.com/item?id=46104193",
+      "source": "hn_weekly",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "DeepSeek-v3.2: Pushing the frontier of open large language models [pdf]",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V3.2/resolve/main/assets/paper.pdf",
+      "source": "hn_weekly",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "(comments)",
+      "url": "https://news.ycombinator.com/item?id=46108780",
+      "source": "hn_weekly",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "OpenAI declares 'code red' as Google catches up in AI race",
+      "url": "https://www.theverge.com/news/836212/openai-code-red-chatgpt",
+      "source": "hn_weekly",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": [
+        "AI",
+        "OpenAI"
+      ]
+    },
+    {
+      "title": "(comments)",
+      "url": "https://news.ycombinator.com/item?id=46121870",
+      "source": "hn_weekly",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "Mistral 3 family of models released",
+      "url": "https://mistral.ai/news/mistral-3",
+      "source": "hn_weekly",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "(comments)",
+      "url": "https://news.ycombinator.com/item?id=46121889",
+      "source": "hn_weekly",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "(comments)",
+      "url": "https://news.ycombinator.com/item?id=46124267",
+      "source": "hn_weekly",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "TanStack AI | TanStack 进军 AI",
+      "url": "https://koala-oss.app/news/1495",
+      "source": "https://koala-oss.app",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "go-size-analyzer | Go 二进制瘦身",
+      "url": "https://koala-oss.app/news/1494",
+      "source": "https://koala-oss.app",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": [
+        "Go"
+      ]
+    },
+    {
+      "title": "Bun | JS 运行时的新归宿",
+      "url": "https://koala-oss.app/news/1493",
+      "source": "https://koala-oss.app",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "Vite 8 Beta | Rust重写的构建工具链",
+      "url": "https://koala-oss.app/news/1492",
+      "source": "https://koala-oss.app",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "Uncloud | 去 K8s 的简易云方案",
+      "url": "https://koala-oss.app/news/1491",
+      "source": "https://koala-oss.app",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "Fresh | 现代终端文本编辑器",
+      "url": "https://koala-oss.app/news/1490",
+      "source": "https://koala-oss.app",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "订阅 453",
+      "url": "https://morerss.com/Pseudoyu",
+      "source": "https://morerss.com",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "PH今日热榜 | 2025-12-08",
+      "url": "https://decohack.com/producthunt-daily-2025-12-08/",
+      "source": "https://decohack.com",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "PH今日热榜 | 2025-12-07",
+      "url": "https://decohack.com/producthunt-daily-2025-12-07/",
+      "source": "https://decohack.com",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "PH今日热榜 | 2025-12-06",
+      "url": "https://decohack.com/producthunt-daily-2025-12-06/",
+      "source": "https://decohack.com",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "PH今日热榜 | 2025-12-05",
+      "url": "https://decohack.com/producthunt-daily-2025-12-05/",
+      "source": "https://decohack.com",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "PH今日热榜 | 2025-12-04",
+      "url": "https://decohack.com/producthunt-daily-2025-12-04/",
+      "source": "https://decohack.com",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "PH今日热榜 | 2025-12-03",
+      "url": "https://decohack.com/producthunt-daily-2025-12-03/",
+      "source": "https://decohack.com",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "PH今日热榜 | 2025-12-02",
+      "url": "https://decohack.com/producthunt-daily-2025-12-02/",
+      "source": "https://decohack.com",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "Microsoft",
+      "url": "https://www.deepspeed.ai/",
+      "source": "https://open.itc.cn",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "microsoft/DeepSpeed",
+      "url": "https://github.com/microsoft/DeepSpeed",
+      "source": "https://open.itc.cn",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "apache/arrow-rs 57.1.0",
+      "url": "https://github.com/apache/arrow-rs/releases/tag/57.1.0",
+      "source": "release_github",
+      "summary": "arrow 57.1.0",
+      "author": "",
+      "published_at": "",
+      "tags": [
+        "Apache"
+      ]
+    },
+    {
+      "title": "apache/nuttx nuttx-12.11.0",
+      "url": "https://github.com/apache/nuttx/releases/tag/nuttx-12.11.0",
+      "source": "release_github",
+      "summary": "nuttx-12.11.0",
+      "author": "",
+      "published_at": "",
+      "tags": [
+        "Apache"
+      ]
+    }
+  ]
+}

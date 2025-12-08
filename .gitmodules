@@ -1,6 +1,8 @@
 [submodule "hugo"]
 	path = hugo
 	url = https://github.com/gohugoio/hugo.git
+	ignore = all
 [submodule "site/themes/hugo-bearblog"]
 	path = site/themes/hugo-bearblog
 	url = https://github.com/janraasch/hugo-bearblog.git
+	ignore = all

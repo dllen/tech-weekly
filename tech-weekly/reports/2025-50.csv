@@ -1,0 +1,60 @@
+title,url,source,author,published_at,tags,summary
+microsoft / VibeVoice,https://github.com/microsoft/VibeVoice,github_trending,,,,Open-Source Frontier Voice AI
+sinelaw / fresh,https://github.com/sinelaw/fresh,github_trending,,,,Text editor for your terminal: easy; powerful and fast
+winapps-org / winapps,https://github.com/winapps-org/winapps,github_trending,,,,Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they...
+patchy631 / ai-engineering-hub,https://github.com/patchy631/ai-engineering-hub,github_trending,,,AI,In-depth tutorials on LLMs; RAGs and real-world AI agent applications.
+slidevjs / slidev,https://github.com/slidevjs/slidev,github_trending,,,,Presentation Slides for Developers
+cloudflare / vibesdk,https://github.com/cloudflare/vibesdk,github_trending,,,Cloudflare,An open-source vibe coding platform that helps you build your own vibe-coding platform; built ent...
+anthropics / claude-quickstarts,https://github.com/anthropics/claude-quickstarts,github_trending,,,,A collection of projects designed to help developers quickly get started with building deployable...
+microsoft / Foundry-Local,https://github.com/microsoft/Foundry-Local,github_trending,,,,
+microsoft / ML-For-Beginners,https://github.com/microsoft/ML-For-Beginners,github_trending,,,ML,12 weeks; 26 lessons; 52 quizzes; classic Machine Learning for all
+GitHub Actions 有一个包管理器，但它可能是最糟糕的。,https://nesbitt.io/2025/12/06/github-actions-package-manager.html,https://hn.aimaker.dev,,,,
+IBM将收购Confluent,https://www.confluent.io/blog/ibm-to-acquire-confluent/,https://hn.aimaker.dev,,,,
+我如何屏蔽所有在线广告,https://troubled.engineer/posts/no-ads/,https://hn.aimaker.dev,,,,
+为什么战斗机禁止使用90%的C++特性 [视频],https://www.youtube.com/watch?v=Gv4sDL9Ljww,https://hn.aimaker.dev,,,,
+壳牌的12天活动,https://12days.cmdchallenge.com,https://hn.aimaker.dev,,,,
+通过市场手段实现社会主义目标：一段历史,https://lucasvance.github.io/2100/history/,https://hn.aimaker.dev,,,,
+对于开发者和产品负责人来说，估算是困难的。,https://thorsell.io/2025/12/07/estimates.html,https://hn.aimaker.dev,,,,
+小程序已正式退出，但浏览器中的Java更强大。,https://frequal.com/java/AppletsGoneButJavaInTheBrowserBetterThanEver.html,https://hn.aimaker.dev,,,,
+F-35战斗机的C++编码标准 [pdf],https://www.stroustrup.com/JSF-AV-rules.pdf,https://hn.aimaker.dev,,,,
+Flow：一种用于C++的基于演员模型的语言，FoundationDB使用了它。,https://github.com/apple/foundationdb/tree/main/flow,https://hn.aimaker.dev,,,,
+Anthropic收购Bun,https://bun.com/blog/bun-joins-anthropic,https://hn.aimaker.dev,,,,
+接受美国汽车标准将危及欧洲人的生命。,https://etsc.eu/accepting-us-car-standards-would-risk-european-lives-warn-cities-and-civil-society/,https://hn.aimaker.dev,,,,
+Cloudflare出现故障。,https://www.cloudflare.com/,https://hn.aimaker.dev,,,,
+Ghostty 现在是非营利组织。,https://mitchellh.com/writing/ghostty-non-profit,https://hn.aimaker.dev,,,,
+IBM首席执行官表示，投资于人工智能数据中心“没有回报的可能”。,https://www.businessinsider.com/ibm-ceo-big-tech-ai-capex-data-center-spending-2025-12,https://hn.aimaker.dev,,,,
+Leak confirms OpenAI is preparing ads on ChatGPT for public roll out,https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-preparing-ads-on-chatgpt-for-public-roll-out/,hn_weekly,,,OpenAI,
+(comments),https://news.ycombinator.com/item?id=46086771,hn_weekly,,,,
+All it takes is for one to work out,https://alearningaday.blog/2025/11/28/all-it-takes-is-for-one-to-work-out-2/,hn_weekly,,,,
+(comments),https://news.ycombinator.com/item?id=46090433,hn_weekly,,,,
+Advent of Code 2025,https://adventofcode.com/2025/about,hn_weekly,,,,
+(comments),https://news.ycombinator.com/item?id=46096337,hn_weekly,,,,
+Search tool that only returns content created before ChatGPT's public release,https://tegabrain.com/Slop-Evader,hn_weekly,,,,
+(comments),https://news.ycombinator.com/item?id=46103376,hn_weekly,,,,
+India orders smartphone makers to preload state-owned cyber safety app,https://www.reuters.com/sustainability/boards-policy-regulation/india-orders-mobile-phones-preloaded-with-government-app-ensure-cyber-safety-2025-12-01/,hn_weekly,,,,
+(comments),https://news.ycombinator.com/item?id=46104193,hn_weekly,,,,
+DeepSeek-v3.2: Pushing the frontier of open large language models [pdf],https://huggingface.co/deepseek-ai/DeepSeek-V3.2/resolve/main/assets/paper.pdf,hn_weekly,,,,
+(comments),https://news.ycombinator.com/item?id=46108780,hn_weekly,,,,
+OpenAI declares 'code red' as Google catches up in AI race,https://www.theverge.com/news/836212/openai-code-red-chatgpt,hn_weekly,,,AI;OpenAI,
+(comments),https://news.ycombinator.com/item?id=46121870,hn_weekly,,,,
+Mistral 3 family of models released,https://mistral.ai/news/mistral-3,hn_weekly,,,,
+(comments),https://news.ycombinator.com/item?id=46121889,hn_weekly,,,,
+(comments),https://news.ycombinator.com/item?id=46124267,hn_weekly,,,,
+TanStack AI | TanStack 进军 AI,https://koala-oss.app/news/1495,https://koala-oss.app,,,AI,
+go-size-analyzer | Go 二进制瘦身,https://koala-oss.app/news/1494,https://koala-oss.app,,,Go,
+Bun | JS 运行时的新归宿,https://koala-oss.app/news/1493,https://koala-oss.app,,,,
+Vite 8 Beta | Rust重写的构建工具链,https://koala-oss.app/news/1492,https://koala-oss.app,,,,
+Uncloud | 去 K8s 的简易云方案,https://koala-oss.app/news/1491,https://koala-oss.app,,,,
+Fresh | 现代终端文本编辑器,https://koala-oss.app/news/1490,https://koala-oss.app,,,,
+订阅 453,https://morerss.com/Pseudoyu,https://morerss.com,,,,
+PH今日热榜 | 2025-12-08,https://decohack.com/producthunt-daily-2025-12-08/,https://decohack.com,,,,
+PH今日热榜 | 2025-12-07,https://decohack.com/producthunt-daily-2025-12-07/,https://decohack.com,,,,
+PH今日热榜 | 2025-12-06,https://decohack.com/producthunt-daily-2025-12-06/,https://decohack.com,,,,
+PH今日热榜 | 2025-12-05,https://decohack.com/producthunt-daily-2025-12-05/,https://decohack.com,,,,
+PH今日热榜 | 2025-12-04,https://decohack.com/producthunt-daily-2025-12-04/,https://decohack.com,,,,
+PH今日热榜 | 2025-12-03,https://decohack.com/producthunt-daily-2025-12-03/,https://decohack.com,,,,
+PH今日热榜 | 2025-12-02,https://decohack.com/producthunt-daily-2025-12-02/,https://decohack.com,,,,
+Microsoft,https://www.deepspeed.ai/,https://open.itc.cn,,,,
+microsoft/DeepSpeed,https://github.com/microsoft/DeepSpeed,https://open.itc.cn,,,,
+apache/arrow-rs 57.1.0,https://github.com/apache/arrow-rs/releases/tag/57.1.0,release_github,,,Apache,arrow 57.1.0
+apache/nuttx nuttx-12.11.0,https://github.com/apache/nuttx/releases/tag/nuttx-12.11.0,release_github,,,Apache,nuttx-12.11.0
