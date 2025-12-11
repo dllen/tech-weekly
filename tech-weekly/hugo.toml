@@ -1,4 +1,5 @@
 baseURL = "http://localhost:1313/"
+relativeURLs = true
 languageCode = "zh-cn"
 title = "开源科技周报"
 theme = "tech-weekly"
