@@ -1,0 +1,733 @@
+{
+  "slug": "2025-51",
+  "generated_at": "2025-12-17T23:21:59.952249",
+  "stats": {
+    "https://github.com/ruanyf/weekly/issues": {
+      "ok": true,
+      "count": 0,
+      "error": "",
+      "duration": 2.9794740676879883,
+      "_start": 1765984752.534293
+    },
+    "https://github.com/trending": {
+      "ok": true,
+      "count": 9,
+      "error": "",
+      "duration": 3.2649197578430176,
+      "_start": 1765984756.317358
+    },
+    "https://hn.aimaker.dev/": {
+      "ok": true,
+      "count": 15,
+      "error": "",
+      "duration": 9.034969091415405,
+      "_start": 1765984760.3859499
+    },
+    "https://www.daemonology.net/hn-weekly/": {
+      "ok": true,
+      "count": 19,
+      "error": "",
+      "duration": 2.2100629806518555,
+      "_start": 1765984770.224803
+    },
+    "https://koala-oss.app/news/": {
+      "ok": true,
+      "count": 6,
+      "error": "",
+      "duration": 1.7763278484344482,
+      "_start": 1765984773.2392871
+    },
+    "https://topsub.cc/": {
+      "ok": true,
+      "count": 0,
+      "error": "",
+      "duration": 7.263937950134277,
+      "_start": 1765984775.817468
+    },
+    "https://git.news/": {
+      "ok": true,
+      "count": 0,
+      "error": "",
+      "duration": 2.5282468795776367,
+      "_start": 1765984783.8854861
+    },
+    "https://github.com/howie6879/weekly": {
+      "ok": true,
+      "count": 0,
+      "error": "",
+      "duration": 2.7055001258850098,
+      "_start": 1765984787.217918
+    },
+    "https://github.com/tw93/weekly?tab=readme-ov-file": {
+      "ok": true,
+      "count": 0,
+      "error": "",
+      "duration": 2.8230109214782715,
+      "_start": 1765984790.72476
+    },
+    "https://github.com/ljinkai/weekly": {
+      "ok": true,
+      "count": 0,
+      "error": "",
+      "duration": 2.822567939758301,
+      "_start": 1765984794.351289
+    },
+    "https://hn.buzzing.cc/": {
+      "ok": true,
+      "count": 0,
+      "error": "",
+      "duration": 6.851305961608887,
+      "_start": 1765984797.9778519
+    },
+    "https://morerss.com/zh": {
+      "ok": true,
+      "count": 4,
+      "error": "",
+      "duration": 8.204208135604858,
+      "_start": 1765984805.633481
+    },
+    "https://x-daily.pages.dev/": {
+      "ok": true,
+      "count": 0,
+      "error": "",
+      "duration": 6.149590015411377,
+      "_start": 1765984814.639992
+    },
+    "https://decohack.com/": {
+      "ok": true,
+      "count": 9,
+      "error": "",
+      "duration": 12.256222009658813,
+      "_start": 1765984821.592578
+    },
+    "https://github.com/headllines/hackernews-monthly": {
+      "ok": true,
+      "count": 0,
+      "error": "",
+      "duration": 5.377538681030273,
+      "_start": 1765984834.652846
+    },
+    "https://weekly.howie6879.com/": {
+      "ok": true,
+      "count": 0,
+      "error": "",
+      "duration": 9.621186017990112,
+      "_start": 1765984840.835181
+    },
+    "https://www.zhihu.com/people/githubdaily": {
+      "ok": false,
+      "count": 0,
+      "error": "error: 403 Client Error: Forbidden for url: https://www.zhihu.com/people/githubdaily",
+      "duration": 0.20303797721862793,
+      "_start": 1765984851.260969
+    },
+    "https://github.com/GitHubDaily/GitHubDaily": {
+      "ok": true,
+      "count": 0,
+      "error": "",
+      "duration": 11.051401853561401,
+      "_start": 1765984851.464061
+    },
+    "https://x.com/GitHub_Daily": {
+      "ok": true,
+      "count": 0,
+      "error": "",
+      "duration": 1.9263410568237305,
+      "_start": 1765984863.319844
+    },
+    "https://hellogithub.com/": {
+      "ok": true,
+      "count": 1,
+      "error": "",
+      "duration": 0.2226548194885254,
+      "_start": 1765984866.050538
+    },
+    "https://github.com/OpenGithubs/github-weekly-rank": {
+      "ok": true,
+      "count": 0,
+      "error": "",
+      "duration": 5.51530385017395,
+      "_start": 1765984867.0770812
+    },
+    "https://open.itc.cn/": {
+      "ok": true,
+      "count": 0,
+      "error": "",
+      "duration": 0.5190169811248779,
+      "_start": 1765984873.3970602
+    },
+    "https://www.github-zh.com/top": {
+      "ok": true,
+      "count": 0,
+      "error": "",
+      "duration": 2.029446840286255,
+      "_start": 1765984874.7194471
+    }
+  },
+  "items": [
+    {
+      "title": "C4illin / ConvertX",
+      "url": "https://github.com/C4illin/ConvertX",
+      "source": "github_trending",
+      "summary": "💾 Self-hosted online file converter. Supports 1000+ formats ⚙️",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "resemble-ai / chatterbox",
+      "url": "https://github.com/resemble-ai/chatterbox",
+      "source": "github_trending",
+      "summary": "SoTA open-source TTS",
+      "author": "",
+      "published_at": "",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "virattt / ai-hedge-fund",
+      "url": "https://github.com/virattt/ai-hedge-fund",
+      "source": "github_trending",
+      "summary": "An AI Hedge Fund Team",
+      "author": "",
+      "published_at": "",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "simstudioai / sim",
+      "url": "https://github.com/simstudioai/sim",
+      "source": "github_trending",
+      "summary": "Open-source platform to build and deploy AI agent workflows.",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "Free-TV / IPTV",
+      "url": "https://github.com/Free-TV/IPTV",
+      "source": "github_trending",
+      "summary": "M3U Playlist for free TV channels",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "0xk1h0 / ChatGPT_DAN",
+      "url": "https://github.com/0xk1h0/ChatGPT_DAN",
+      "source": "github_trending",
+      "summary": "ChatGPT DAN, Jailbreaks prompt",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "nicotsx / zerobyte",
+      "url": "https://github.com/nicotsx/zerobyte",
+      "source": "github_trending",
+      "summary": "Backup automation for self-hosters. Built on top of restic",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "jellyfin / jellyfin-desktop",
+      "url": "https://github.com/jellyfin/jellyfin-desktop",
+      "source": "github_trending",
+      "summary": "Jellyfin Desktop Client",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "NVIDIA-NeMo / Gym",
+      "url": "https://github.com/NVIDIA-NeMo/Gym",
+      "source": "github_trending",
+      "summary": "Build RL environments for LLM training",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "Mozilla是在拼命自杀吗？",
+      "url": "https://infosec.press/brunomiguel/is-mozilla-trying-hard-to-kill-itself",
+      "source": "https://hn.aimaker.dev",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "麻省理工学院教授在马萨诸塞州家中遭枪击身亡",
+      "url": "https://www.bbc.com/news/articles/cly08y25688o",
+      "source": "https://hn.aimaker.dev",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "GitHub将于2026年3月开始对自托管的操作运行器收费。",
+      "url": "https://github.blog/changelog/2025-12-16-coming-soon-simpler-pricing-and-a-better-experience-for-github-actions/",
+      "source": "https://hn.aimaker.dev",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "GitHub Actions 的定价变更",
+      "url": "https://resources.github.com/actions/2026-pricing-changes-for-github-actions/",
+      "source": "https://hn.aimaker.dev",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "没有图形API",
+      "url": "https://www.sebastianaaltonen.com/blog/no-graphics-api",
+      "source": "https://hn.aimaker.dev",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "FVWM-95",
+      "url": "https://fvwm95.sourceforge.net/",
+      "source": "https://hn.aimaker.dev",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "预测：人工智能将使形式验证成为主流。",
+      "url": "https://martin.kleppmann.com/2025/12/08/ai-formal-verification.html",
+      "source": "https://hn.aimaker.dev",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "GPT 图像 1.5",
+      "url": "https://openai.com/index/new-chatgpt-images-is-here/",
+      "source": "https://hn.aimaker.dev",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "没有人工智能* – 对Mozilla下一个篇章的回应",
+      "url": "https://www.waterfox.com/blog/no-ai-here-response-to-mozilla/",
+      "source": "https://hn.aimaker.dev",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "使用Qt、QML、Rust和C++编写一个明显的Telegram克隆。",
+      "url": "https://kemble.net/blog/provoke/",
+      "source": "https://hn.aimaker.dev",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "秘密文件显示百事可乐与沃尔玛勾结抬高食品价格",
+      "url": "https://www.thebignewsletter.com/p/secret-documents-show-pepsi-and-walmart",
+      "source": "https://hn.aimaker.dev",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "iPhone 输入错误？不仅仅是你 – iOS 键盘出现问题 [视频]",
+      "url": "https://www.youtube.com/watch?v=hksVvXONrIo",
+      "source": "https://hn.aimaker.dev",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "法国超市的圣诞广告在全球引发热潮（无需人工智能）[视频]",
+      "url": "https://www.youtube.com/watch?v=Na9VmMNJvsA",
+      "source": "https://hn.aimaker.dev",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "我在Reddit上以7500欧元购买了一台Nvidia GH200服务器，并将其改装成了一台台式电脑。",
+      "url": "https://dnhkng.github.io/posts/hopper/",
+      "source": "https://hn.aimaker.dev",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "谷歌因过时的法院命令将Sci-Hub域名从美国搜索结果中移除",
+      "url": "https://torrentfreak.com/google-removes-sci-hub-domains-from-u-s-search-results-due-to-dated-court-order/",
+      "source": "https://hn.aimaker.dev",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "GrapheneOS is the only Android OS providing full security patches",
+      "url": "https://grapheneos.social/@GrapheneOS/115647408229616018",
+      "source": "hn_weekly",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "(comments)",
+      "url": "https://news.ycombinator.com/item?id=46173407",
+      "source": "hn_weekly",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "4 billion if statements (2023)",
+      "url": "https://andreasjhkarlsson.github.io//jekyll/update/2023/12/27/4-billion-if-statements.html",
+      "source": "hn_weekly",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "(comments)",
+      "url": "https://news.ycombinator.com/item?id=46174114",
+      "source": "hn_weekly",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "Using LLMs at Oxide",
+      "url": "https://rfd.shared.oxide.computer/rfd/0576",
+      "source": "hn_weekly",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "(comments)",
+      "url": "https://news.ycombinator.com/item?id=46178347",
+      "source": "hn_weekly",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "I wasted years of my life in crypto",
+      "url": "https://twitter.com/kenchangh/status/1994854381267947640",
+      "source": "hn_weekly",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "(comments)",
+      "url": "https://news.ycombinator.com/item?id=46181371",
+      "source": "hn_weekly",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "Icons in Menus Everywhere – Send Help",
+      "url": "https://blog.jim-nielsen.com/2025/icons-in-menus/",
+      "source": "hn_weekly",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "(comments)",
+      "url": "https://news.ycombinator.com/item?id=46196688",
+      "source": "hn_weekly",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "The highest quality codebase",
+      "url": "https://gricha.dev/blog/the-highest-quality-codebase",
+      "source": "hn_weekly",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "(comments)",
+      "url": "https://news.ycombinator.com/item?id=46197930",
+      "source": "hn_weekly",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "Mistral releases Devstral2 and Mistral Vibe CLI",
+      "url": "https://mistral.ai/news/devstral-2-vibe-cli",
+      "source": "hn_weekly",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "(comments)",
+      "url": "https://news.ycombinator.com/item?id=46205437",
+      "source": "hn_weekly",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "Show HN: Gemini Pro 3 imagines the HN front page 10 years from now",
+      "url": "https://dosaygo-studio.github.io/hn-front-page-2035/news",
+      "source": "hn_weekly",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "(comments)",
+      "url": "https://news.ycombinator.com/item?id=46205632",
+      "source": "hn_weekly",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "Ask HN: Should \\\"I asked $AI, and it said\\\" replies be forbidden in HN guidelines?",
+      "url": "https://news.ycombinator.com/item?id=46206457",
+      "source": "hn_weekly",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": [
+        "AI"
+      ]
+    },
+    {
+      "title": "Bruno Simon – 3D Portfolio",
+      "url": "https://bruno-simon.com/",
+      "source": "hn_weekly",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "Analytics Buckets | Supabase 推出分析存储",
+      "url": "https://koala-oss.app/news/1502",
+      "source": "https://koala-oss.app",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "Elysia | Bun 生态的新锐框架",
+      "url": "https://koala-oss.app/news/1501",
+      "source": "https://koala-oss.app",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "Walrus | 开源数据流引擎",
+      "url": "https://koala-oss.app/news/1500",
+      "source": "https://koala-oss.app",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "Remix Store | Remix 开源实战项目",
+      "url": "https://koala-oss.app/news/1499",
+      "source": "https://koala-oss.app",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "check-if-email-exists | 邮箱真实性验证工具",
+      "url": "https://koala-oss.app/news/1498",
+      "source": "https://koala-oss.app",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "Marmot | Marmot 开源数据资产目录",
+      "url": "https://koala-oss.app/news/1497",
+      "source": "https://koala-oss.app",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "Diygod",
+      "url": "https://diygod.cc/",
+      "source": "https://morerss.com",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "订阅 565",
+      "url": "https://morerss.com/Diygod",
+      "source": "https://morerss.com",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "Bestony | 白宦成",
+      "url": "http://www.ixiqin.com",
+      "source": "https://morerss.com",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "订阅 355",
+      "url": "https://morerss.com/Bestony%20%7C%20%E7%99%BD%E5%AE%A6%E6%88%90",
+      "source": "https://morerss.com",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "PH今日热榜 | 2025-12-17",
+      "url": "https://decohack.com/producthunt-daily-2025-12-17/",
+      "source": "https://decohack.com",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "PH今日热榜 | 2025-12-16",
+      "url": "https://decohack.com/producthunt-daily-2025-12-16/",
+      "source": "https://decohack.com",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "PH今日热榜 | 2025-12-15",
+      "url": "https://decohack.com/producthunt-daily-2025-12-15/",
+      "source": "https://decohack.com",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "PH今日热榜 | 2025-12-14",
+      "url": "https://decohack.com/producthunt-daily-2025-12-14/",
+      "source": "https://decohack.com",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "PH今日热榜 | 2025-12-13",
+      "url": "https://decohack.com/producthunt-daily-2025-12-13/",
+      "source": "https://decohack.com",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "PH今日热榜 | 2025-12-12",
+      "url": "https://decohack.com/producthunt-daily-2025-12-12/",
+      "source": "https://decohack.com",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "PH今日热榜 | 2025-12-11",
+      "url": "https://decohack.com/producthunt-daily-2025-12-11/",
+      "source": "https://decohack.com",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "PH今日热榜 | 2025-12-10",
+      "url": "https://decohack.com/producthunt-daily-2025-12-10/",
+      "source": "https://decohack.com",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "PH今日热榜 | 2025-12-09",
+      "url": "https://decohack.com/producthunt-daily-2025-12-09/",
+      "source": "https://decohack.com",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    },
+    {
+      "title": "服务器由提供",
+      "url": "https://www.compshare.cn/?utm_term=logo&utm_campaign=hellogithub&utm_source=otherdsp&utm_medium=display&ytag=logo_hellogithub_otherdsp_display",
+      "source": "https://hellogithub.com",
+      "summary": "",
+      "author": "",
+      "published_at": "",
+      "tags": []
+    }
+  ]
+}
